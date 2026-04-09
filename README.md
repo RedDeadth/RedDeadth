@@ -1,144 +1,263 @@
-<!-- WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=RedDeadth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Anderson%20Aaron%20Alarcón&descAlignY=65&descSize=20&descColor=ffcccc"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--   HEADER — Capsule Render tipo "venom" orgánico   -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0533,100:0d1f0d&height=200&section=header&text=Anderson%20Aaron%20Alarcón&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=RedDeadth%20%E2%80%94%20Full%20Stack%20%26%20Android%20Developer&descAlignY=78&descSize=16&descColor=00FF9C"/>
+
+<!-- TYPING -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF2222&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+FastAPI;Android+%7C+Kotlin+%7C+Flutter;Clean+Architecture+%7C+Hexagonal;Open+to+remote+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF6D00&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Spring+Boot+%7C+React+%7C+FastAPI+%7C+Kotlin;Hexagonal+Architecture+%7C+Clean+Code;Android+%7C+Flutter+%7C+PostgreSQL+%7C+AWS;Open+to+remote+opportunities+%F0%9F%8C%8E" alt="typing"/>
 </p>
 
-<!-- SOCIAL LINKS -->
+<!-- BADGES -->
 <p align="center">
-  <a href="https://andersonaaronalarcon.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://andersonaaronalarcon.dev">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-andersonaaronalarcon.dev-FF6D00?style=for-the-badge&labelColor=0a0a0f"/>
   </a>
-  <a href="https://linkedin.com/in/anderson-aaron-alarcon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/anderson-aaron-alarcon">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f"/>
   </a>
   <a href="mailto:aaronandersonalarcon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f"/>
   </a>
-  <a href="https://github.com/RedDeadth?tab=followers">
-    <img src="https://img.shields.io/github/followers/RedDeadth?color=FF0000&labelColor=1a1a1a&style=for-the-badge&logo=github&label=Followers"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/RedDeadth?style=for-the-badge&logo=github&labelColor=0a0a0f&color=FF6D00&label=Followers"/>
 </p>
 
 <br/>
 
----
+<!-- ══════════════════════ -->
+<!--   ABOUT — ASIMÉTRICO  -->
+<!-- ══════════════════════ -->
 
-## 🧠 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## `> whoami`
 
 ```kotlin
-data class Developer(
-    val name: String = "Anderson Aaron Alarcón Paricanaza",
-    val alias: String = "RedDeadth",
-    val location: String = "Arequipa, Perú 🇵🇪",
-    val role: String = "Full Stack + Android Developer",
-    val available: Boolean = true,   // open to remote work
-    val languages: List<String> = listOf("Español", "English"),
-    val passions: List<String> = listOf(
-        "Clean Architecture",
-        "Scalable APIs",
-        "Android Development",
-        "Hi-Res Audio 🎵"
-    )
-)
+object RedDeadth {
+  val name    = "Anderson Aaron Alarcón"
+  val from    = "Arequipa, Perú 🇵🇪"
+  val focus   = "Full Stack + Android"
+  val status  = "🟢 Open to remote work"
+
+  val crafting = listOf(
+    "REST APIs with Clean Architecture",
+    "Android apps with Kotlin + Compose",
+    "Scalable backends in Spring & FastAPI"
+  )
+
+  val philosophy = """
+    Write code that survives its author.
+  """.trimIndent()
+}
 ```
 
----
+</td>
+<td width="42%" valign="top">
 
-## ⚙️ Tech Stack
+<br/><br/>
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cs,dotnet,nodejs,express&theme=dark"/>
-</p>
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,angular,kotlin,flutter,next,tailwind,vite&theme=dark"/>
-</p>
-
-**Data & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,docker,github,linux&theme=dark"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/RedDeadth/ecommerce-api">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RedDeadth&repo=ecommerce-api&theme=radical&bg_color=0d0d0d&title_color=FF4444&hide_border=true&icon_color=FF8888&show_icons=true"/>
-  </a>
-  <a href="https://github.com/RedDeadth/GuardianBox">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RedDeadth&repo=GuardianBox&theme=radical&bg_color=0d0d0d&title_color=FF4444&hide_border=true&icon_color=FF8888&show_icons=true"/>
-  </a>
-  <a href="https://github.com/RedDeadth/Luka-Final-Project">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RedDeadth&repo=Luka-Final-Project&theme=radical&bg_color=0d0d0d&title_color=FF4444&hide_border=true&icon_color=FF8888&show_icons=true"/>
-  </a>
-  <a href="https://github.com/RedDeadth/NotificationManager">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RedDeadth&repo=NotificationManager&theme=radical&bg_color=0d0d0d&title_color=FF4444&hide_border=true&icon_color=FF8888&show_icons=true"/>
-  </a>
-</p>
-
----
-
-## 💼 Work Experience
-
-<details open>
-  <summary><b>🔴 Navia — Full Stack Developer</b></summary>
-  <br/>
-
-  > FastAPI · Flutter · Hexagonal Architecture · Dependency Injection · Ports & Adapters
-  >
-  > Auth module refactoring, hexagonal ports/adapters implementation, Flutter input validations.
-
-</details>
-
-<details open>
-  <summary><b>🔴 Fibertel Networks — Android Developer</b></summary>
-  <br/>
-
-  > Kotlin · MVVM · Firebase · Facial Recognition · Attendance System
-  >
-  > Built full facial recognition attendance system with Android + web admin panel.
-
-</details>
-
----
-
-## 📊 GitHub Stats
+```
+  ╔═══════════════════════╗
+  ║  SYSTEMS ONLINE       ║
+  ╠═══════════════════════╣
+  ║  Backend      ████▓░  ║
+  ║  Frontend     ███▓░░  ║
+  ║  Android      ████░░  ║
+  ║  DevOps       ██▓░░░  ║
+  ║  Architecture █████░  ║
+  ╚═══════════════════════╝
+```
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RedDeadth&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FF4444&icon_color=FF8888&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedDeadth&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FF4444&icon_color=FF8888&text_color=ffffff&hide_border=true&langs_count=8"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20years-FF6D00?style=flat-square&labelColor=0a0a0f"/>
+  <img src="https://img.shields.io/badge/Projects-10%2B-00FF9C?style=flat-square&labelColor=0a0a0f"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ════════════════ -->
+<!--   TECH STACK    -->
+<!-- ════════════════ -->
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**`// backend`**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark&perline=4"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4"/>
+
+</td>
+<td align="center" width="33%">
+
+**`// frontend & mobile`**
+
+<img src="https://skillicons.dev/icons?i=react,ts,angular,kotlin&theme=dark&perline=4"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,next,tailwind,vite&theme=dark&perline=4"/>
+
+</td>
+<td align="center" width="33%">
+
+**`// data & cloud`**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql&theme=dark&perline=4"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,github,linux&theme=dark&perline=4"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═════════════════════════════════ -->
+<!--   PROJECTS — layout asimétrico   -->
+<!-- ═════════════════════════════════ -->
+
+## 🛸 Featured Projects
+
+<table>
+<tr>
+<!-- Proyecto grande izquierda -->
+<td width="55%" valign="top">
+
+### [`ecommerce-api`](https://github.com/RedDeadth/ecommerce-api)
+> RESTful API — Spring Boot 3 · Java 21 · PostgreSQL
+
+![Java](https://img.shields.io/badge/Java-FF6D00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-00FF9C?style=flat-square&logo=springboot&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=black)
+
+Hexagonal architecture · JWT auth · Spring Security · Clean domain model
+
+<br/>
+
+### [`GuardianBox`](https://github.com/RedDeadth/GuardianBox)
+> IoT locker system — Kotlin · Jetpack Compose · Firebase · Arduino
+
+![Kotlin](https://img.shields.io/badge/Kotlin-FF6D00?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-00FF9C?style=flat-square&logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-ffffff?style=flat-square&logo=arduino&logoColor=black)
+
+Android app + web admin panel + firmware embedded
+
+</td>
+<!-- Proyectos pequeños derecha -->
+<td width="45%" valign="top">
+
+### [`Luka-Final-Project`](https://github.com/RedDeadth/Luka-Final-Project)
+> .NET 9 · CQRS · MediatR · Docker · Render
+
+![C#](https://img.shields.io/badge/C%23-FF6D00?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00FF9C?style=flat-square&logo=docker&logoColor=black)
+
+Clean Architecture · Hangfire · Swagger · PostgreSQL
+
+<br/>
+
+### [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
+> Android · Kotlin · Notification aggregator
+
+![Kotlin](https://img.shields.io/badge/Kotlin-FF6D00?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-00FF9C?style=flat-square&logo=android&logoColor=black)
+
+Aggregates notifications from selected apps
+
+<br/>
+
+### [`angular-threejs-ecommerce`](https://github.com/RedDeadth/angular-threejs-ecommerce)
+> Angular · Three.js · SCSS · 3D UI
+
+![Angular](https://img.shields.io/badge/Angular-FF6D00?style=flat-square&logo=angular&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/Three.js-ffffff?style=flat-square&logo=threedotjs&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ -->
+<!--   WORK EXPERIENCE  -->
+<!-- ═══════════════════ -->
+
+## 🏢 Work Experience
+
+<table>
+<tr>
+<td width="10%" align="center">
+  <img src="https://img.shields.io/badge/%20-FF6D00?style=for-the-badge&label=NAV&labelColor=0a0a0f"/>
+</td>
+<td>
+
+**Navia** — Full Stack Developer
+`FastAPI` `Flutter` `Hexagonal Architecture` `Dependency Injection`
+Auth module refactoring · Ports & adapters pattern · Flutter input validations
+
+</td>
+</tr>
+<tr>
+<td width="10%" align="center">
+  <img src="https://img.shields.io/badge/%20-00FF9C?style=for-the-badge&label=FBT&labelColor=0a0a0f"/>
+</td>
+<td>
+
+**Fibertel Networks** — Android Developer
+`Kotlin` `MVVM` `Firebase` `Facial Recognition`
+Full attendance system · Real-time face detection · Web admin panel
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ -->
+<!--   STATS        -->
+<!-- ═══════════════ -->
+
+## 📡 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=RedDeadth&show_icons=true&bg_color=0a0a0f&title_color=FF6D00&icon_color=00FF9C&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedDeadth&layout=compact&bg_color=0a0a0f&title_color=FF6D00&text_color=ffffff&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RedDeadth&theme=radical&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF4444&currStreakLabel=FF8888&short_numbers=true"/>
+  <img src="https://streak-stats.demolab.com?user=RedDeadth&hide_border=true&background=0a0a0f&ring=FF6D00&fire=FF9500&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&short_numbers=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedDeadth&bg_color=0d0d0d&color=FF8888&line=FF0000&point=ffffff&hide_border=true&area=true&area_color=FF000033"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedDeadth&bg_color=0a0a0f&color=00FF9C&line=FF6D00&point=ffffff&hide_border=true&area=true&area_color=FF6D0020"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ══════════════════════════════════ -->
+<!--   SNAKE — requiere GitHub Action  -->
+<!-- ══════════════════════════════════ -->
+
+## 🌌 Contribution Orbit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedDeadth/RedDeadth/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedDeadth/RedDeadth/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RedDeadth/RedDeadth/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/RedDeadth/RedDeadth/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f0d,50:1a0533,100:0a0a0f&height=100&section=footer&text=Let's%20build%20something%20together&fontSize=18&fontColor=00FF9C&fontAlignY=65"/>
