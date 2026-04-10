@@ -159,16 +159,6 @@ Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 
 <br/>
 
-### ◇ [`angular-threejs-ecommerce`](https://github.com/RedDeadth/angular-threejs-ecommerce)
-
-![Angular](https://img.shields.io/badge/Angular-FF3333?style=flat-square&logo=angular&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-1a1a1a?style=flat-square&logo=threedotjs&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-FF3333?style=flat-square&logo=sass&logoColor=white)
-
-3D storefront UI · WebGL animations
-
-<br/>
-
 ### ◇ [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF3333?style=flat-square&logo=kotlin&logoColor=white)
